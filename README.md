@@ -2,16 +2,16 @@
 "Investigating the Brain's Response: Hyperalignment & Decoded Neurofeedback"
 This study explores the enigmatic relationship between neural signals and consciousness. Leveraging hyperalignment, it deciphers how the brain represents motor patterns. Decoded Neurofeedback aids post-injury motor recovery. These methods enrich our understanding of neural representation and offer non-pharmacological solutions for psychological and neurological disorders, promising improved clinical outcomes.
 
-##Problem Set 2
+## Problem Set 2
 
-###Research Question Formulation:
+### Research Question Formulation:
 **Objective**: The sleep quality may differ between seasons, influenced by changed temperature, exercise, and workload. Therefore, this research aims to find out whether season influences sleep quality. The question is: "How do seasonal changes and temperature variations affect sleep quality as measured by sleep scores?"
 
 **Significance**: Understanding the impact of seasonal changes and temperature on sleep quality is crucial for developing personalized sleep improvement strategies and for public health policies enhancing overall well-being. Sleep quality directly affects mental health, physical health, and daily functioning, making this question paramount in sleep research and health studies.
 
-###Operational Measures:
+### Operational Measures:
 
-###Variables:
+### Variables:
 
 **Dependent (Y) variable**: Sleep Quality, measured by SLEEP_SCORES.
 
@@ -29,13 +29,13 @@ Model Development:
 
 **Data Processing**: The data will be cleaned to remove any missing values, especially in the dependent variable (SLEEP_SCORES). A binary variable indicating the season based on a specific cutoff day will be created to facilitate the RDD analysis. The independent variable Days will be centered around this cutoff to improve numerical stability in regression analysis.
 
-###Results Presentation:
+### Results Presentation:
 
 **Training and Testing**: The model does not explicitly involve a train-test split due to the nature of RDD, which focuses on the discontinuity at a specific threshold (the start of the spring) rather than predicting future outcomes. The analysis will instead focus on estimating the immediate impact of the seasonal transition.
 
 **Data Visualization**: Results will be visualized using scatter plots to show the distribution of sleep scores across days, with fitted regression lines on either side of the seasonal cutoff to illustrate the estimated discontinuity. This will help convey the immediate effect of the transition from Winter to Spring on sleep quality.
 
-###Model Evaluation:
+### Model Evaluation:
 
 **Evaluation Criteria**: The primary metric for model evaluation will be the estimated size and significance of the discontinuity at the threshold (start of Spring). This will be assessed through the regression coefficients and their confidence intervals.
 
