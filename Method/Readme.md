@@ -37,4 +37,5 @@ Model Development:
 
 **Iterative Improvement**: If initial results suggest model refinements are needed, adjustments may include exploring non-linear relationships, considering additional covariates that might influence sleep quality (e.g., temperature, daylight hours), or using different bandwidths around the cutoff for sensitivity analysis. This iterative process aims to ensure that the model accurately captures the relationship between season change and sleep quality, enhancing its predictive accuracy.
 
-![Grammarly_2](https://github.com/Annieqyc/STATS201-Qinyi-Chen/method/Grammarly_2.png "Grammarly Screenshot")
+![Grammarly_2](https://github.com/Annieqyc/STATS201-Qinyi-Chen/blob/main/Method/Grammarly_2.png)
+
