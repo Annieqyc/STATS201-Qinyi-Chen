@@ -3,7 +3,7 @@
 This study explores the enigmatic relationship between neural signals and consciousness. Leveraging hyperalignment, it deciphers how the brain represents motor patterns. Decoded Neurofeedback aids post-injury motor recovery. These methods enrich our understanding of neural representation and offer non-pharmacological solutions for psychological and neurological disorders, promising improved clinical outcomes.
 
 "Problem Set 2"
-Problem Set 2
+
 Research Question Formulation:
 •	Objective: The sleep quality may differ between seasons, influenced by changed temperature, exercise, and workload. Therefore, this research aims to find out whether season influences sleep quality. The question is: "How do seasonal changes and temperature variations affect sleep quality as measured by sleep scores?"
 •	Significance: Understanding the impact of seasonal changes and temperature on sleep quality is crucial for developing personalized sleep improvement strategies and for public health policies enhancing overall well-being. Sleep quality directly affects mental health, physical health, and daily functioning, making this question paramount in sleep research and health studies.
