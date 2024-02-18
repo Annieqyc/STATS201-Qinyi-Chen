@@ -36,3 +36,5 @@ Model Development:
 **Evaluation Criteria**: The primary metric for model evaluation will be the estimated size and significance of the discontinuity at the threshold (start of Spring). This will be assessed through the regression coefficients and their confidence intervals.
 
 **Iterative Improvement**: If initial results suggest model refinements are needed, adjustments may include exploring non-linear relationships, considering additional covariates that might influence sleep quality (e.g., temperature, daylight hours), or using different bandwidths around the cutoff for sensitivity analysis. This iterative process aims to ensure that the model accurately captures the relationship between season change and sleep quality, enhancing its predictive accuracy.
+
+![Grammarly_2](https://github.com/Annieqyc/STATS201-Qinyi-Chen/method/Grammarly_2.png "Grammarly Screenshot")
