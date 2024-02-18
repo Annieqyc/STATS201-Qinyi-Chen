@@ -1,3 +1,4 @@
+![Flow_Chart](https://github.com/Annieqyc/STATS201-Qinyi-Chen/blob/main/Method/Flow_Chart.png)
 ## Problem Set 2
 
 ### Research Question Formulation:
